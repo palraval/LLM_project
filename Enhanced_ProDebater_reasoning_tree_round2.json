@@ -1,0 +1,82 @@
+{
+  "utterance": "Public transportation should be free to promote a more sustainable and environmentally friendly mode of transportation, reduce traffic congestion, and improve accessibility for all individuals regardless of their financial status. Charging for public transportation perpetuates inequality and restricts access to essential services, further marginalizing vulnerable communities. Making public transportation free breaks down economic barriers, allowing everyone to benefit from its numerous advantages.",
+  "score": 0.0,
+  "action_type": "root",
+  "children": [
+    {
+      "utterance": "It is preposterous to suggest that public transportation should not be free. Charging fares limits access to vital services, perpetuates inequality, and harms the most vulnerable in society. The idea that overcrowding and decreased quality of service would be a consequence of free public transportation is a feeble excuse to maintain an unjust system that disenfranchises those who need it most.",
+      "score": 1.0,
+      "action_type": "attack",
+      "children": [
+        {
+          "utterance": "Public transportation should be free because it's a fundamental right, not a luxury for the privileged few. It's disgraceful that in today's world, people are denied access to basic services simply because they can't afford a fare. Charging for public transportation is akin to putting a price tag on human dignity and societal inclusivity.",
+          "score": 1.0,
+          "action_type": "attack",
+          "children": []
+        },
+        {
+          "utterance": "It is naive to believe that simply subsidizing fares or improving infrastructure will solve the issue of inequality and accessibility. Free public transportation is a bold and necessary step towards breaking down economic barriers and providing equitable access to essential services. Charging for transportation perpetuates injustice and denies many the basic right to mobility and opportunity.",
+          "score": 1.0,
+          "action_type": "rebut",
+          "children": []
+        },
+        {
+          "utterance": "Public transportation is a lifeline for many, and making it free is not just a luxury but a necessity. Charging fees only deepens the rift between the haves and have-nots, cutting off vital connections for those who need it most. It's time to break the chains of inequality and ensure that everyone can access this fundamental right without fear of financial burden or exclusion.",
+          "score": 1.0,
+          "action_type": "reinforce",
+          "children": []
+        }
+      ]
+    },
+    {
+      "utterance": "It is concerning that the opposition values profits over the well-being of communities. Their focus on financial sustainability fails to acknowledge the human cost of excluding people from essential services. Making public transportation free is a just and necessary step towards equality and accessibility for all individuals, regardless of their economic status.",
+      "score": 1.0,
+      "action_type": "rebut",
+      "children": [
+        {
+          "utterance": "Public transportation is not a luxury\u2014it is a basic human need! Denying people access based on their ability to pay is a gross injustice and perpetuates social and economic disparities. Anyone who opposes free public transportation is complicit in this system of inequality and exclusion. It's time to break free from the chains of greed and prioritize the well-being of all individuals. Make public transportation free now!",
+          "score": 0.9,
+          "action_type": "attack",
+          "children": []
+        },
+        {
+          "utterance": "It is time to break free from the chains of inequality and provide equal access to all individuals, regardless of their financial status. Making public transportation free is not just about economics; it's about creating a more inclusive and connected society where everyone has the opportunity to thrive. Let's stop prioritizing profit over people and start investing in a future where mobility is a right, not a privilege.",
+          "score": 1.0,
+          "action_type": "rebut",
+          "children": []
+        },
+        {
+          "utterance": "Public transportation should be free! It is a basic necessity for all, a lifeline that should not have a price tag. Denying people mobility based on their economic status is a cruel injustice, perpetuating a system where the disadvantaged are left behind while the privileged soar ahead. Let us not tolerate a world where the ability to move freely is reserved only for the wealthy, where opportunity becomes a distant dream",
+          "score": 1.0,
+          "action_type": "reinforce",
+          "children": []
+        }
+      ]
+    },
+    {
+      "utterance": "Public transportation must be free to liberate individuals from the shackles of financial oppression that deny them basic mobility. It's a moral imperative to tear down the barricades that prevent marginalized communities from accessing essential services and fulfilling their potential. A society that values equity and justice must no longer tolerate the barriers imposed by fare prices on the path to progress.",
+      "score": 1.0,
+      "action_type": "reinforce",
+      "children": [
+        {
+          "utterance": "Public transportation is not a luxury; it is a necessity for many struggling individuals. Charging for public transportation only serves to punish those already trapped in cycles of poverty, making it even harder for them to break free and access essential services. Making public transportation free is a step towards a more just and equitable society where everyone can move freely and without financial burdens.",
+          "score": 1.0,
+          "action_type": "attack",
+          "children": []
+        },
+        {
+          "utterance": "It is absurd to suggest that offering free public transportation would lead to overcrowding and decreased quality of service. It is a basic human need that should not be commodified and restricted based on financial means. Providing free public transportation promotes equality, sustainability, and accessibility for all individuals, creating a more inclusive and connected society.",
+          "score": 1.0,
+          "action_type": "rebut",
+          "children": []
+        },
+        {
+          "utterance": "Public transportation must be free! It's an outrage that people with limited means are denied access to basic necessities because of exorbitant fares. Those who oppose are blind to the struggles of marginalized communities, perpetuating a system that prioritizes profit over people. Every individual deserves equal opportunities for mobility and progress; making public transportation free is the first step towards a more just society.",
+          "score": 0.9,
+          "action_type": "reinforce",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
